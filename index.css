@@ -149,7 +149,7 @@ nav {
 .about__container {
     width: 50%;
     margin: 180px 0 100px 100px;
-    padding: 40px;
+    padding: 50px;
     /* border: 1px solid #525252; */
 }
 
@@ -229,7 +229,7 @@ p.about__container-link {
 .project__container-images {
     position: relative;
     width: 100%;
-    height: 2000px;
+    height: 2500px;
     padding: 40px 0;
 }
 
@@ -265,6 +265,22 @@ p.about__container-link {
     top: -200px;
     left: -100px;
     background: url(images/p4.png) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-five {
+    position: relative;
+    top: 0px;
+    left: -260px;
+    background: url(images/p5.png) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-six {
+    position: relative;
+    top: -500px;
+    left: 200px;
+    background: url(images/p6.png) no-repeat 50% 50%;
     background-size: cover;
 }
 
@@ -325,7 +341,7 @@ p.about__container-link {
         height: 200px;
     }
 
-    .project__image-one, .project__image-two, .project__image-three, .project__image-four {
+    .project__image-one, .project__image-two, .project__image-three, .project__image-four, .project__image-five, .project__image-six {
         position: relative;
         top: 0;
         left: 0;
@@ -344,10 +360,14 @@ p.about__container-link {
     }
 
     .project__container-images {
-        height: 1000px;
+        height: 1500px;
     }
 
     .foot a{
         font-size: 24px;
+    }
+    
+    .about__container {
+        padding: 20px;
     }
 }
