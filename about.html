@@ -49,6 +49,9 @@
     </div>
     <script src="js/script.js"></script>
     <script>
+        window.onbeforeunload = function () {
+            window.scrollTo(0, 0);
+        }; 
         // smooth scroll 
         const scroll = new LocomotiveScroll({
             el: document.querySelector('#js-scroll'),
