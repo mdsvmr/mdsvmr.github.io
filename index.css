@@ -217,12 +217,7 @@ p.about__container-link {
 .project__container-title h1{
     color: #000;
     font-family: Cynere;
-    font-size: 140px;
-}
-.project__container-title span{
-    color: #000;
-    font-family: Cynere;
-    font-size: 40px;
+    font-size: 120px;
 }
 
 .project__container-subtitle {
