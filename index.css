@@ -6,7 +6,12 @@
 @font-face {
     font-family: Cynere;
     src: url(fonts/Cyrene\ Regular.otf);
-  }
+}
+
+@font-face {
+    font-family: Hatton;
+    src: url(fonts/Hatton-Medium.otf);
+ }
 
 * {
     margin: 0;
@@ -216,7 +221,7 @@ p.about__container-link {
 
 .project__container-title h1{
     color: #000;
-    font-family: Cynere;
+    font-family: Hatton;
     font-size: 140px;
 }
 
