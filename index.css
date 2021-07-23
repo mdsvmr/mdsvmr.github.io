@@ -8,11 +8,6 @@
     src: url(fonts/Cyrene\ Regular.otf);
 }
 
-@font-face {
-    font-family: Hatton;
-    src: url(fonts/Hatton-Ultralight.otf);
- }
-
 * {
     margin: 0;
     padding: 0;
@@ -221,7 +216,7 @@ p.about__container-link {
 
 .project__container-title h1{
     color: #000;
-    font-family: Hatton;
+    font-family: Cynere;
     font-size: 140px;
 }
 
