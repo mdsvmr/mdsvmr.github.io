@@ -362,6 +362,7 @@ p.about__container-link {
 
     .project__container-images {
         height: 1500px;
+        margin-top: 40px;
     }
 
     .foot a{
