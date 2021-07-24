@@ -325,7 +325,7 @@ p.about__container-link {
 
 @media(max-width: 900px) {
     .project__container-title h1 {
-        font-size: 40px;
+        font-size: 60px;
     }
 
     .project__container {
