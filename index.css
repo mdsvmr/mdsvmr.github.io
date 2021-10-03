@@ -178,7 +178,7 @@ p.about__container-link {
 .about__container-link a {
     color: #000;
     font-size: 26px;
-    line-height: 30px;
+    line-height: 28px;
 }
 
 .cursor-follow {
@@ -352,7 +352,7 @@ p.about__container-link {
 
     .about__container p {
         font-size: 24px;
-        line-height: 30px;
+        line-height: 28px;
     }
 
     p.about__container-link {
@@ -361,6 +361,7 @@ p.about__container-link {
 
     .about__container-link a{
         font-size: 20px;
+        line-height: 24px;
     }
 
     .project__container-images {
