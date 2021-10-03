@@ -173,6 +173,7 @@ nav {
 
 p.about__container-link {
     font-size: 26px;
+    line-height: 20px;
 }
 
 .about__container-link a {
@@ -361,7 +362,7 @@ p.about__container-link {
 
     .about__container-link a{
         font-size: 20px;
-        line-height: 22px;
+        line-height: 20px;
     }
 
     .project__container-images {
